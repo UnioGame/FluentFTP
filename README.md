@@ -9,7 +9,7 @@ Add to your project manifiest by path [%UnityProject%]/Packages/manifiest.json n
 ```json
 {
   "dependencies": {
-    "com.unigame.fluentftp": "https://github.com/UnioGame/FuentFTP.git",
+    "unigame.fluentftp": "https://github.com/UnioGame/FuentFTP.git",
   }
 }
 
